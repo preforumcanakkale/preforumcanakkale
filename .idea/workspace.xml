@@ -2,222 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dafa7f0-f9a8-4978-acdf-76c33917bb2d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/img/Thumbs.db" afterPath="$PROJECT_DIR$/platforms/browser/www/css/img/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/img/icons.png" afterPath="$PROJECT_DIR$/platforms/browser/www/css/img/icons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/img/loader.gif" afterPath="$PROJECT_DIR$/platforms/browser/www/css/img/loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/apple-touch-icon.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/apple-touch-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/apple-touch-startup-image-320x460.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/apple-touch-startup-image-320x460.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/apple-touch-startup-image-640x920.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/apple-touch-startup-image-640x920.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/author.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/author.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/avatar.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/avatar.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/avatar2.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/avatar2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/avatar3.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/avatar3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/avatar4.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/avatar4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/bullet.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/bullet.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/comments.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/comments.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/date.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/date.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/dropdown.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/dropdown.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/back.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/bike.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/bike.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/blog.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/blog.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/briefcase.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/briefcase.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/building.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/building.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/bus.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/bus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/car.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/car.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/cart.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/cart.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/categories.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/categories.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/contact.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/contact.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/dribbble.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/dribbble.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/drink.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/drink.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/electronics.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/electronics.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/facebook.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/favorites.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/favorites.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/features.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/features.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/food.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/food.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/form.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/form.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/gift.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/gift.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/gplus.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/gplus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/home.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/home.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/instagram.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/instagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/like.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/like.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/linkedin.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/linkedin.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/lock.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/lock.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/logout.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/logout.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/love.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/love.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/map.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/map.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/menu.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/menu.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/menu_close.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/menu_close.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/message.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/message.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/mobile.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/mobile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/more.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/more.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/music.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/music.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/next.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/next.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/orders.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/orders.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/phone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/photos.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/photos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/piechart.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/piechart.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/pinterest.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/pinterest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/plus.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/plus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/rocket.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/rocket.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/search.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/settings.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/settings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/shop.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/shop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/slider.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/slider.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/tables.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/tables.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/tabs.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/tabs.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/toggle.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/toggle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/trash.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/trash.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/twitter.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/twitter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/user.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/user.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/users.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/users.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/video.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/black/video.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/back.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/bike.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/bike.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/blog.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/blog.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/briefcase.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/briefcase.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/bus.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/bus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/car.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/car.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/cart.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/cart.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/categories.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/categories.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/contact.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/contact.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/dribbble.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/dribbble.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/drink.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/drink.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/electronics.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/electronics.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/facebook.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/favorites.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/favorites.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/features.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/features.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/food.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/food.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/form.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/form.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/gift.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/gift.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/gplus.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/gplus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/home.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/home.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/instagram.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/instagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/like.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/like.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/linkedin.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/linkedin.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/lock.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/lock.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/logout.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/logout.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/love.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/love.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/map.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/map.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/menu.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/menu.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/menu_close.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/menu_close.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/message.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/message.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/mobile.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/mobile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/more.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/more.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/music.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/music.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/next.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/next.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/orders.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/orders.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/phone.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/photos.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/photos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/piechart.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/piechart.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/pinterest.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/pinterest.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/plus.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/plus.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/rocket.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/rocket.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/search.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/settings.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/settings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/shop.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/shop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/slider.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/slider.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/tables.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/tables.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/tabs.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/tabs.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/toggle.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/toggle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/trash.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/trash.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/twitter.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/twitter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/user.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/user.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/users.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/users.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/video.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/icons/white/video.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/loader.gif" afterPath="$PROJECT_DIR$/platforms/browser/www/images/loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/nav-next.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/nav-next.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/nav-prev.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/nav-prev.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/page_photo.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/page_photo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/page_photo2.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/page_photo2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/page_photo3.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/page_photo3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo1.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo10.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo11.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo12.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo13.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo14.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo15.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo2.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo3.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo4.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo5.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo6.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo7.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo8.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo9.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/photos/photo9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/slide1_.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/slide1_.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/slide2_.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/slide2_.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/slide3_.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/slide3_.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/subnav.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/subnav.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/swipe_more.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/swipe_more.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/switch_11.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/switch_11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/switch_11_active.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/switch_11_active.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/switch_12.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/switch_12.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/switch_12_active.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/switch_12_active.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/switch_13.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/switch_13.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/switch_13_active.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/switch_13_active.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/trans_black_gradient.png" afterPath="$PROJECT_DIR$/platforms/browser/www/images/trans_black_gradient.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/audiojs.swf" afterPath="$PROJECT_DIR$/platforms/browser/www/js/audiojs.swf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/player-graphics.gif" afterPath="$PROJECT_DIR$/platforms/browser/www/js/player-graphics.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-f7-ios.png" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-f7-ios.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-f7-material.png" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-f7-material.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/blog-single.html" afterPath="$PROJECT_DIR$/platforms/browser/www/blog-single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/blog.html" afterPath="$PROJECT_DIR$/platforms/browser/www/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/categories.html" afterPath="$PROJECT_DIR$/platforms/browser/www/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/checkout.html" afterPath="$PROJECT_DIR$/platforms/browser/www/checkout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/contact.html" afterPath="$PROJECT_DIR$/platforms/browser/www/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/animations.css" afterPath="$PROJECT_DIR$/platforms/browser/www/css/animations.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/framework7.css" afterPath="$PROJECT_DIR$/platforms/browser/www/css/framework7.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/img/icons.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/css/img/icons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/reset.css" afterPath="$PROJECT_DIR$/platforms/browser/www/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/css/swipebox.css" afterPath="$PROJECT_DIR$/platforms/browser/www/css/swipebox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/features.html" afterPath="$PROJECT_DIR$/platforms/browser/www/features.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/form.html" afterPath="$PROJECT_DIR$/platforms/browser/www/form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/audio.min.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/audio.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/email.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/email.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/framework7.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/framework7.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/jquery-1.10.1.min.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/jquery-1.10.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/jquery.fitvids.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/jquery.fitvids.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/jquery.swipebox.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/jquery.swipebox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/jquery.validate.min.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/jquery.validate.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/my-app.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/my-app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.colors.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.colors.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.colors.min.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.colors.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.min.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.rtl.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.rtl.min.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.ios.rtl.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.colors.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.colors.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.colors.min.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.colors.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.min.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.rtl.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.rtl.min.css" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/css/framework7.material.rtl.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-calendar-ios.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-calendar-ios.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-calendar-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-calendar-material.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-comment-ios.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-comment-ios.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-comment-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-comment-material.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-email-ios.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-email-ios.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-email-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-email-material.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-gender-ios.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-gender-ios.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-gender-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-gender-material.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-name-ios.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-name-ios.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-name-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-name-material.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-password-ios.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-password-ios.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-password-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-password-material.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-settings-ios.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-settings-ios.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-settings-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-settings-material.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-tel-ios.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-tel-ios.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-tel-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-tel-material.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-toggle-ios.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-toggle-ios.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-toggle-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-toggle-material.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-url-ios.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-url-ios.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-url-material.svg" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/img/i-form-url-material.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/js/framework7.js" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/js/framework7.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/js/framework7.js.map" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/js/framework7.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/js/framework7.min.js" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/js/framework7.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/js/framework7.min.js.map" afterPath="$PROJECT_DIR$/platforms/browser/www/lib/framework7/js/framework7.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/images/burak_gurbuz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/images/doruk_demirci.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/images/slide3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/burak_gurbuz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/doruk_demirci.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/images/slide3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/checklist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/services.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/www/tour.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/checklist.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/services.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/tour.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/browser/www/faa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/www/faa.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/images/slide1.jpg" afterPath="$PROJECT_DIR$/platforms/browser/www/images/slide1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/images/slide1.jpg" afterPath="$PROJECT_DIR$/www/images/slide1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/music.html" afterPath="$PROJECT_DIR$/platforms/browser/www/music.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/schedule.html" afterPath="$PROJECT_DIR$/platforms/browser/www/schedule.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/style.css" afterPath="$PROJECT_DIR$/platforms/browser/www/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/tabs.html" afterPath="$PROJECT_DIR$/platforms/browser/www/tabs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/team.html" afterPath="$PROJECT_DIR$/platforms/browser/www/team.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/toggle.html" afterPath="$PROJECT_DIR$/platforms/browser/www/toggle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/transportation.html" afterPath="$PROJECT_DIR$/platforms/browser/www/transportation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/blog.html" afterPath="$PROJECT_DIR$/www/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/contact.html" afterPath="$PROJECT_DIR$/www/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/music.html" afterPath="$PROJECT_DIR$/www/music.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/schedule.html" afterPath="$PROJECT_DIR$/www/schedule.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/style.css" afterPath="$PROJECT_DIR$/www/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/tabs.html" afterPath="$PROJECT_DIR$/www/tabs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/team.html" afterPath="$PROJECT_DIR$/www/team.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/toggle.html" afterPath="$PROJECT_DIR$/www/toggle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/transportation.html" afterPath="$PROJECT_DIR$/www/transportation.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -237,6 +59,9 @@
     <findStrings>
       <find>faa</find>
       <find>f</find>
+      <find>.btyellow</find>
+      <find>.contactform input.form_submit</find>
+      <find>faa.html</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -245,7 +70,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/www/transportation.html" />
+        <option value="$PROJECT_DIR$/www/tour.html" />
+        <option value="$PROJECT_DIR$/www/style.css" />
+        <option value="$PROJECT_DIR$/www/faq.html" />
+        <option value="$PROJECT_DIR$/www/music.html" />
+        <option value="$PROJECT_DIR$/www/schedule.html" />
+        <option value="$PROJECT_DIR$/www/services.html" />
+        <option value="$PROJECT_DIR$/www/team.html" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/blog.html" />
+        <option value="$PROJECT_DIR$/www/checklist.html" />
+        <option value="$PROJECT_DIR$/www/contact.html" />
       </list>
     </option>
   </component>
@@ -279,6 +115,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -291,15 +129,93 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="preforumcanakkale" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="preforumcanakkale" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.vagrant" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -312,23 +228,24 @@
       <option name="presentableId" value="Default" />
       <updated>1506626784102</updated>
       <workItem from="1506626785681" duration="890000" />
-      <workItem from="1506775065333" duration="29000" />
+      <workItem from="1506765908911" duration="7519000" />
+      <workItem from="1506775429738" duration="119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="919000" />
+    <option name="totallyTimeSpent" value="8528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="742" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32923076" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -358,14 +275,158 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#12130#13202#0" expanded="false" />
+            <element signature="e#13204#14368#0" expanded="false" />
+            <element signature="e#14370#15166#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#12130#13202#0" expanded="false" />
+            <element signature="e#13204#14368#0" expanded="false" />
+            <element signature="e#14370#15166#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/photos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/tour.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="2070" column="11" lean-forward="false" selection-start-line="2070" selection-start-column="11" selection-end-line="2070" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/transportation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/categories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="63" lean-forward="true" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/faq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="33" column="116" lean-forward="false" selection-start-line="33" selection-start-column="116" selection-end-line="33" selection-end-column="116" />
+        <state relative-caret-position="118">
+          <caret line="261" column="3" lean-forward="true" selection-start-line="261" selection-start-column="3" selection-end-line="261" selection-end-column="3" />
+          <folding>
+            <element signature="n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#12130#13202#0" expanded="false" />
+            <element signature="e#13204#14368#0" expanded="false" />
+            <element signature="e#14370#15166#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/music.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#h4#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#h4#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#h4#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/schedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/checklist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
           <folding />
         </state>
       </provider>
