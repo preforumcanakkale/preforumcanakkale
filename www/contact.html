@@ -19,21 +19,18 @@
 
                     <h2 id="Note"></h2>
                     <div class="contactform">
-                        <form class="" id="ContactForm" method="post" action="">
+                        <form class="" method="get" action="mailto:">
                             <label>Ad Soyad</label>
-                            <input type="text" name="ContactName" id="ContactName" value=""
-                                   class="form_input required"/>
-                            <label>E-posta</label>
-                            <input type="text" name="ContactEmail" id="ContactEmail" value=""
-                                   class="form_input required email"/>
+                            <input type="text" name="subject" id="subject" value="" class="form_input required"/>
+
                             <label>Mesaj</label>
-                            <textarea name="ContactComment" id="ContactComment" class="form_textarea textarea required"
-                                      rows="" cols=""></textarea>
+                            <textarea name="body" id="body" class="form_textarea textarea required" rows="" cols=""></textarea>
+
                             <input type="submit" name="submit" class="form_submit btyellow" id="submit" value="Gönder"/>
-                            <input class="" type="hidden" name="to" value="preforumcanakkale@gmail.com"/>
-                            <input class="" type="hidden" name="subject" value="PreforumÇanakkale App - Bir Mesajınız Var!" />
-                            <label id="loader" style="display:none;"><img src="images/loader.gif" alt="Gönderiliyor..."
-                                                                          id="LoadingGraphic"/></label>
+
+                            <input class="" type="hidden" name="email" value="eburakgurbuz@gmail.com"/>
+
+                            <label id="loader" style="display:none;"><img src="images/loader.gif" alt="Gönderiliyor..." id="LoadingGraphic"/></label>
                         </form>
                     </div>
                     <div class="clear"></div>
