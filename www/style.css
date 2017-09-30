@@ -2005,8 +2005,7 @@ padding:0 0 15px 0;
 width:100%;
 padding:5px 0 3px 0; 
 display:block; 
-font-size:16px;
-font-weight:700;
+font-size:14px;
 }
 .contactform label.error{
 padding:0 0 10px 0; 
@@ -2061,6 +2060,7 @@ display:inline-block;
 }
 .contactform label .item-inner{
 display:inline-block;
+	vertical-align: middle;
 }
 .contactform label.label-switch{
 display:inline-block;
