@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dafa7f0-f9a8-4978-acdf-76c33917bb2d" name="Default" comment="" />
+    <list default="true" id="8dafa7f0-f9a8-4978-acdf-76c33917bb2d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/google-services.json" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -224,12 +226,12 @@
       <workItem from="1506775682888" duration="4341000" />
       <workItem from="1506782415698" duration="2305000" />
       <workItem from="1506786136100" duration="492000" />
-      <workItem from="1506795576437" duration="7830000" />
+      <workItem from="1506795576437" duration="8741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23377000" />
+    <option name="totallyTimeSpent" value="24288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="742" extended-state="6" />
