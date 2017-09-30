@@ -222,3 +222,250 @@ myApp.onPageInit('photos', function (page) {
 
 	});	
 })
+myApp.onPageInit('checklist', function (page) {
+    var genders = [
+        {
+            id: '#maleData',
+            lists: [
+                {
+                    label: 'Kıyafet',
+                    values: [
+                        "Kulüp Tshirt",
+                        "Kulüp sweatshirt",
+                        "Tshirt",
+                        "Pantolon",
+                        "Şort",
+                        "Hırka",
+                        "Sweatshirt",
+                        "Çorap",
+                        "Şapka/Bandana",
+                        "İç çamaşırı",
+                        "Deniz/Havuz şortu",
+                        "Havlu",
+                        "Plaj kıyafeti",
+                        "Spor kıyafet",
+                        "Takım Elbise",
+                        "Smokin"
+                    ]
+                },
+                {
+                    label: 'Program',
+                    values: [
+                        "Şehitlik gezisi için uygun kıyafet",
+                        "Şehir gezisi için uygun kıyafet",
+                        "Mahalle konseptli parti için uygun kıyafet",
+                        "Workshop için uygun kıyafet",
+                        "After Party (Gala sonrası) için uygun kıyafet"
+                    ]
+                },
+                {
+                    label: 'Ayakkabı',
+                    values: [
+                        "Spor",
+                        "Sandalet",
+                        "Terlik",
+                        "Gala ayakkabısı",
+                        "Açılış toplantısı ayakkabısı"
+                    ]
+                },
+                {
+                    label: 'Aksesuar',
+                    values: [
+                        "Leo rozeti",
+                        "Güneş Gözlüğü",
+                        "Kemer",
+                        "Papyon",
+                        "Kravat",
+                        "Kol Düğmesi"
+                    ]
+                },
+                {
+                    label: 'Muhtelif',
+                    values: [
+                        "Deodorant",
+                        "Parfüm",
+                        "Tarak",
+                        "Saç köpüğü/Sprey/Jöle",
+                        "Tıraş köpüğü",
+                        "Şampuan/Saç Kremi",
+                        "Vücut jeli",
+                        "Lif"
+                    ]
+                },
+                {
+                    label: 'Elektronik',
+                    values: [
+                        "Telefon + Şarj",
+                        "Foto Mk. + Şarj",
+                        "Powerbank + Şarj",
+                        "Tıraş Mk. + Şarj"
+                    ]
+                },
+                {
+                    label: 'Hijyenik',
+                    values: [
+                        "Diş fırçası",
+                        "Diş macunu",
+                        "Nemlendirici krem",
+                        "Lens kabı",
+                        "Solüsyon",
+                        "Yedek lens",
+                        "Yara bandı",
+                        "Ağrı kesici",
+                        "Muhtelif ilaç",
+                        "Makas"
+                    ]
+                },
+                {
+                    label: 'Yolculuk',
+                    values: [
+                        "Uyku bandı",
+                        "Kulaklık/Mini hoparlör",
+                        "Yolculuk için rahat kıyafet",
+                        "Atıştırmalık",
+                        "Powerbank"
+                    ]
+                }
+            ]
+        },
+        {
+            id: '#femaleData',
+            lists: [
+                {
+                    label: 'Kıyafet',
+                    values: [
+                        "Kulüp Tshirt",
+                        "Kulüp sweatshirt",
+                        "Tshirt",
+                        "Pantolon",
+                        "Şort",
+                        "Hırka",
+                        "Sweatshirt",
+                        "Çorap",
+                        "Şapka/Bandana",
+                        "Etek/Elbise",
+                        "İç çamaşırı",
+                        "Mayo/Bikini",
+                        "Havlu",
+                        "Pareo/Plaj kıyafeti",
+                        "Spor kıyafet",
+                        "Gala Elbisesi",
+                        "Açılış Toplantısı için kıyafet"
+                    ]
+                },
+                {
+                    label: 'Program',
+                    values: [
+                        "Şehitlik gezisi için uygun kıyafet",
+                        "Şehir gezisi için uygun kıyafet",
+                        "Mahalle konseptli parti için uygun kıyafet",
+                        "Workshop için uygun kıyafet",
+                        "After Party (Gala sonrası) için uygun kıyafet",
+                    ]
+                },
+                {
+                    label: 'Ayakkabı',
+                    values: [
+                        "Spor",
+                        "Sandalet",
+                        "Terlik",
+                        "Gala ayakkabısı",
+                        "Açılış toplantısı ayakkabısı"
+                    ]
+                },
+                {
+                    label: 'Aksesuar',
+                    values: [
+                        "Leo rozeti",
+                        "Gala için takı",
+                        "Günlük takı",
+                        "Gala için çanta",
+                        "Toka (tel/lastik)",
+                        "Güneş Gözlüğü",
+                        "Kemer"
+                    ]
+                },
+                {
+                    label: 'Muhtelif',
+                    values: [
+                        "Deodorant",
+                        "Parfüm",
+                        "Tarak",
+                        "Makyaj malzemeleri",
+                        "Saç köpüğü/Sprey/Jöle",
+                        "Şampuan/Saç Kremi",
+                        "Vücut jeli",
+                        "Lif"
+                    ]
+                },
+                {
+                    label: 'Elektronik',
+                    values: [
+                        "Telefon+Şarj",
+                        "Foto mk+Şarj",
+                        "Powerbank+Şarj",
+                        "Düzleştirici/Maşa"
+                    ]
+                },
+                {
+                    label: 'Hijyenik',
+                    values: [
+                        "Diş fırçası",
+                        "Diş macunu",
+                        "Makyaj temizleme ürünleri",
+                        "Nemlendirici krem",
+                        "Oje",
+                        "Aseton",
+                        "Ped/Günlük ped",
+                        "Lens kabı",
+                        "Solüsyon",
+                        "Yedek lens",
+                        "Yara bandı",
+                        "Ağrı kesici",
+                        "Muhtelif ilaç",
+                        "Epilatör",
+                        "Cımbız",
+                        "Törpü",
+                        "Makas"
+                    ]
+                },
+                {
+                    label: 'Yolculuk',
+                    values: [
+                        "Uyku bandı",
+                        "Kulaklık/Mini hoparlör",
+                        "Yolculuk için rahat kıyafet",
+                        "Atıştırmalık",
+                        "Powerbank"
+                    ]
+                }
+            ]
+        }
+    ];
+
+    genders.forEach(function(g){
+        var content = '';
+
+        g.lists.forEach(function(r){
+            content += '<h3>'+ r.label +'</h3>';
+            r.values.forEach(function(v, index){
+                content += '' +
+                    '<div class="form_row">'+
+                    '<label class="label-checkbox item-content">'+
+                        '<input type="checkbox" name="male[]" value="'+ index +'" >'+
+                        '<div class="item-media">'+
+                            '<i class="icon icon-form-checkbox"></i>'+
+                        '</div>'+
+                        '<div class="item-inner">'+
+                            '<div class="item-title">&nbsp;'+ v +'</div>'+
+                        '</div>'+
+                    '</label>'+
+                    '</div>';
+            });
+            content += '<br />';
+        });
+
+        $(g.id).html(content);
+    });
+
+})
