@@ -325,7 +325,7 @@ color: #222222;
 }
 .btyellow{
 background-color:#89CAE3;
-color:#222222; 
+color:#fff;
 }
 .btmint{
 background-color:#61bb7e;
@@ -2082,7 +2082,7 @@ text-align:center;
 cursor:pointer; 
 font-size:20px;
 background-color:#89CAE3;
-color:#222222;
+color:#fff;
 border: none;
 cursor:pointer;
 }
