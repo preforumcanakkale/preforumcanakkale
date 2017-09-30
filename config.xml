@@ -63,6 +63,7 @@
         <icon src="www/res/icon/ios/icon-50@2x.png" width="100" height="100" />
     </platform>
     <preference name="DisallowOverscroll" value="true" />
+    <preference name="BackgroundColor" value="0xFFFFFFFF" />
     <plugin name="cordova-plugin-whitelist" spec="~1.2.0" />
     <plugin name="cordova-plugin-console" spec="~1.0.1" />
     <plugin name="cordova-plugin-statusbar" spec="~1.0.1" />

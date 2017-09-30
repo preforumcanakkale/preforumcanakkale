@@ -18,4 +18,5 @@
     <icon src="www/res/icon/icon.png" />
     <splash src="www/res/icon/splash.png" />
     <preference name="DisallowOverscroll" value="true" />
+    <preference name="BackgroundColor" value="0xFFFFFFFF" />
 </widget>
