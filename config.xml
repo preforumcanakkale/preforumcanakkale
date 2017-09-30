@@ -28,10 +28,10 @@
         <icon density="xxhdpi" src="www/res/icon/android/xxhdpi.png" />
         <icon density="xxxhdpi" src="www/res/icon/android/xxxhdpi.png" />
 
-        <splash src="www/res/screen/android/splash-port-ldpi.png" density="port-ldpi"/>
-        <splash src="www/res/screen/android/splash-port-hdpi.png" density="port-hdpi"/>
-        <splash src="www/res/screen/android/splash-port-mdpi.png" density="port-mdpi"/>
-        <splash src="www/res/screen/android/splash-port-xhdpi.png" density="port-xhdpi"/>
+        <splash src="www/res/icon/android/splash-port-ldpi.png" density="port-ldpi"/>
+        <splash src="www/res/icon/android/splash-port-hdpi.png" density="port-hdpi"/>
+        <splash src="www/res/icon/android/splash-port-mdpi.png" density="port-mdpi"/>
+        <splash src="www/res/icon/android/splash-port-xhdpi.png" density="port-xhdpi"/>
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
@@ -52,13 +52,13 @@
         <icon height="58" src="www/res/icon/ios/icon-small@2x.png" width="58" />
         <icon height="50" src="www/res/icon/ios/icon-50.png" width="50" />
         <icon height="100" src="www/res/icon/ios/icon-50@2x.png" width="100" />
-        <splash src="res/screen/ios/Default~iphone.png" width="320" height="480"/>
-        <splash src="res/screen/ios/Default@2x~iphone.png" width="640" height="960"/>
-        <splash src="res/screen/ios/Default-Portrait~ipad.png" width="768" height="1024"/>
-        <splash src="res/screen/ios/Default-Portrait@2x~ipad.png" width="1536" height="2048"/>
-        <splash src="res/screen/ios/Default-568h@2x~iphone.png" width="640" height="1136"/>
-        <splash src="res/screen/ios/Default-667h.png" width="750" height="1334"/>
-        <splash src="res/screen/ios/Default-736h.png" width="1242" height="2208"/>
+        <splash src="www/res/icon/ios/Default~iphone.png" width="320" height="480"/>
+        <splash src="www/res/icon/ios/Default@2x~iphone.png" width="640" height="960"/>
+        <splash src="www/res/icon/ios/Default-Portrait~ipad.png" width="768" height="1024"/>
+        <splash src="www/res/icon/ios/Default-Portrait@2x~ipad.png" width="1536" height="2048"/>
+        <splash src="www/res/icon/ios/Default-568h@2x~iphone.png" width="640" height="1136"/>
+        <splash src="www/res/icon/ios/Default-667h.png" width="750" height="1334"/>
+        <splash src="www/res/icon/ios/Default-736h.png" width="1242" height="2208"/>
     </platform>
     <preference name="DisallowOverscroll" value="true" />
     <preference name="BackgroundColor" value="0xFFFFFFFF" />
