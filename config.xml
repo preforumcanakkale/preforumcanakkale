@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.preforumcanakkale" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>PreforumCanakkale</name>
+    <name>Preforum Çanakkale</name>
     <description>
         28. Ulusal Leo Preforumu "Preforum Çanakkale"
     </description>
     <author email="preforumcanakkale@gmail.com" href="http://preforumcanakkale.org">
-        PreforumCanakkale Development Team
+        Preforum Çanakkale Development Team
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -19,6 +19,7 @@
     <splash src="www/res/icon/splash.png" />
     <platform name="android">
         <preference name="android-minSdkVersion" value="14" />
+        <preference name="SplashMaintainAspectRatio" value="true" />
         <allow-intent href="market:*" />
         <icon density="ldpi" src="www/res/icon/android/ldpi.png" />
         <icon density="mdpi" src="www/res/icon/android/mdpi.png" />
@@ -27,6 +28,7 @@
         <icon density="xxhdpi" src="www/res/icon/android/xxhdpi.png" />
         <icon density="xxxhdpi" src="www/res/icon/android/xxxhdpi.png" />
 
+        <splash src="www/res/screen/android/splash-port-ldpi.png" density="port-ldpi"/>
         <splash src="www/res/screen/android/splash-port-hdpi.png" density="port-hdpi"/>
         <splash src="www/res/screen/android/splash-port-mdpi.png" density="port-mdpi"/>
         <splash src="www/res/screen/android/splash-port-xhdpi.png" density="port-xhdpi"/>
