@@ -331,6 +331,13 @@ color:#fff;
 background-color:#61bb7e;
 color:#fff;
 }
+i.icon.icon-pc {
+	width: 30px !important;
+	height: 30px !important;
+	margin-left: 10px;
+	background-image: url("images/logo.png");
+	border-radius: 6px;
+}
 /*===============================================*/
 /* 6. LEFT AND RIGHT SLIDE PANELS */
 /*===============================================*/	

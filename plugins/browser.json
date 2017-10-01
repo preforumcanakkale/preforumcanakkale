@@ -18,6 +18,9 @@
         },
         "cordova-plugin-splashscreen": {
             "PACKAGE_NAME": "com.phonegap.preforumcanakkale"
+        },
+        "phonegap-plugin-push": {
+            "PACKAGE_NAME": "com.phonegap.preforumcanakkale"
         }
     },
     "dependent_plugins": {}
