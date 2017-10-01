@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "375914529258",
+    "firebase_url": "https://preforum-canakkale-e70fb.firebaseio.com",
+    "project_id": "preforum-canakkale-e70fb",
+    "storage_bucket": "preforum-canakkale-e70fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375914529258:android:f86efea57bc8c368",
+        "android_client_info": {
+          "package_name": "com.phonegap.preforumcanakkale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375914529258-gnac66e8otchqj9ik2nnaqnhorp3d9ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqK2HUxaKTnBCPBcAVKnUpNlEFj8ZqMrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
