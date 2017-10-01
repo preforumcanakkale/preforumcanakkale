@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.preforumcanakkale" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>PreforumCanakkale</name>
+    <name>Preforum Çanakkale</name>
     <description>
         28. Ulusal Leo Preforumu "Preforum Çanakkale"
     </description>
     <author email="preforumcanakkale@gmail.com" href="http://preforumcanakkale.org">
-        PreforumCanakkale Development Team
+        Preforum Çanakkale Development Team
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -15,5 +15,8 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <icon src="www/res/icon/icon.png" />
+    <splash src="www/res/icon/splash.png" />
     <preference name="DisallowOverscroll" value="true" />
+    <preference name="BackgroundColor" value="0xFFFFFFFF" />
 </widget>
