@@ -37,14 +37,6 @@ module.exports = [
         "clobbers": [
             "PushNotification"
         ]
-    },
-    {
-        "file": "plugins/cordova-plugin-firebase/www/firebase-browser.js",
-        "id": "cordova-plugin-firebase.FirebasePlugin",
-        "pluginId": "cordova-plugin-firebase",
-        "clobbers": [
-            "FirebasePlugin"
-        ]
     }
 ];
 module.exports.metadata = 
@@ -54,8 +46,7 @@ module.exports.metadata =
     "cordova-plugin-console": "1.0.7",
     "cordova-plugin-statusbar": "1.0.1",
     "cordova-plugin-splashscreen": "4.0.3",
-    "phonegap-plugin-push": "2.0.0",
-    "cordova-plugin-firebase": "0.1.24"
+    "phonegap-plugin-push": "2.0.0"
 }
 // BOTTOM OF METADATA
 });

@@ -21,9 +21,6 @@
         },
         "phonegap-plugin-push": {
             "PACKAGE_NAME": "com.phonegap.preforumcanakkale"
-        },
-        "cordova-plugin-firebase": {
-            "PACKAGE_NAME": "com.phonegap.preforumcanakkale"
         }
     },
     "dependent_plugins": {}
