@@ -20,6 +20,7 @@
             "PACKAGE_NAME": "com.phonegap.preforumcanakkale"
         },
         "phonegap-plugin-push": {
+            "SENDER_ID": "85075801930",
             "PACKAGE_NAME": "com.phonegap.preforumcanakkale"
         }
     },
