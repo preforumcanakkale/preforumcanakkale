@@ -49,6 +49,15 @@ var app = {
             "windows": {}
         });
 
+        var topic = "allandroid";
+
+        push.subscribe(topic, function () {
+            console.log('Subscribe Success: ' + topic);
+        }, function (e) {
+            console.log('Subscribe Error:');
+            console.log(e);
+        });
+
         push.on('registration', function(data) {
             //console.log('registration event: ' + data.registrationId);
 
