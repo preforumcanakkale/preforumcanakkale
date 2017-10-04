@@ -2,118 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dafa7f0-f9a8-4978-acdf-76c33917bb2d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-plugin-add-header-comment/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-plugin-add-header-comment/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-plugin-add-header-comment/.eslintrc.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-plugin-add-header-comment/CODE_OF_CONDUCT.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-plugin-add-header-comment/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-plugin-add-header-comment/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-plugin-add-header-comment/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-plugin-add-header-comment/circle.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-plugin-add-header-comment/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-plugin-add-header-comment/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/docco.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/install.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/public/fonts/aller-bold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/public/fonts/aller-bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/public/fonts/aller-bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/public/fonts/aller-light.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/public/fonts/aller-light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/public/fonts/aller-light.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/public/fonts/roboto-black.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/public/fonts/roboto-black.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/public/fonts/roboto-black.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/docs/public/stylesheets/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/install.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/install.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/scripts/docs.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/install/scripts/prepublish.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/FCMService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushDismissedHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/js/push.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/types/index.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/FCMService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushDismissedHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/js/push.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/types/index.d.ts" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/.editorconfig" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/.editorconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/.github/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/.github/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/.npmignore" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/MIT-LICENSE" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/MIT-LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/README.md" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/API.md" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/API.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/EXAMPLES.md" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/EXAMPLES.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/INSTALLATION.md" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/INSTALLATION.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/PAYLOAD.md" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/PAYLOAD.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/PHONEGAP_BUILD.md" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/PHONEGAP_BUILD.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/PLATFORM_SUPPORT.md" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/PLATFORM_SUPPORT.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/TYPESCRIPT.md" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/docs/TYPESCRIPT.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/hooks/windows/setToastCapable.js" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/hooks/windows/setToastCapable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/package.json" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/plugin.xml" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/push.gradle" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/push.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/spec/index.spec.js" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/spec/index.spec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/BackgroundActionButtonHandler.java" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/BackgroundActionButtonHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PermissionUtils.java" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PermissionUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushConstants.java" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushConstants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushHandlerActivity.java" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushHandlerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushInstanceIDListenerService.java" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushInstanceIDListenerService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushPlugin.java" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushPlugin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/browser/manifest.json" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/browser/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/ios/PushPlugin.h" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/ios/PushPlugin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/ios/PushPlugin.m" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/ios/PushPlugin.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/windows/PushPluginProxy.js" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/src/windows/PushPluginProxy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/www/browser/push.js" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/www/browser/push.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/www/push.js" afterPath="$PROJECT_DIR$/node_modules/phonegap-plugin-push/www/push.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/browser/platform_www/cordova_plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/platform_www/manifest.json" afterPath="$PROJECT_DIR$/platforms/browser/platform_www/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/platform_www/plugins/phonegap-plugin-push/www/browser/push.js" afterPath="$PROJECT_DIR$/platforms/browser/platform_www/plugins/phonegap-plugin-push/www/browser/push.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/platform_www/plugins/phonegap-plugin-push/www/push.js" afterPath="$PROJECT_DIR$/platforms/browser/platform_www/plugins/phonegap-plugin-push/www/push.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/index.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/manifest.json" afterPath="$PROJECT_DIR$/platforms/browser/www/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/plugins/phonegap-plugin-push/www/browser/push.js" afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/phonegap-plugin-push/www/browser/push.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/plugins/phonegap-plugin-push/www/push.js" afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/phonegap-plugin-push/www/push.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/browser.json" afterPath="$PROJECT_DIR$/plugins/browser.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fetch.json" afterPath="$PROJECT_DIR$/plugins/fetch.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/CHANGELOG.md" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/MIT-LICENSE" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/MIT-LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/README.md" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/API.md" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/API.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/EXAMPLES.md" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/EXAMPLES.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/INSTALLATION.md" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/INSTALLATION.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/PAYLOAD.md" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/PAYLOAD.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/PHONEGAP_BUILD.md" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/PHONEGAP_BUILD.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/PLATFORM_SUPPORT.md" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/PLATFORM_SUPPORT.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/TYPESCRIPT.md" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/docs/TYPESCRIPT.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/hooks/windows/setToastCapable.js" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/hooks/windows/setToastCapable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/package.json" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/plugin.xml" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/push.gradle" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/push.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/spec/index.spec.js" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/spec/index.spec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/BackgroundActionButtonHandler.java" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/BackgroundActionButtonHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PermissionUtils.java" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PermissionUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushConstants.java" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushConstants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushHandlerActivity.java" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushHandlerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushInstanceIDListenerService.java" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushInstanceIDListenerService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushPlugin.java" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/android/com/adobe/phonegap/push/PushPlugin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/browser/manifest.json" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/browser/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/ios/PushPlugin.h" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/ios/PushPlugin.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/ios/PushPlugin.m" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/ios/PushPlugin.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/windows/PushPluginProxy.js" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/windows/PushPluginProxy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/www/browser/push.js" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/www/browser/push.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/phonegap-plugin-push/www/push.js" afterPath="$PROJECT_DIR$/plugins/phonegap-plugin-push/www/push.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -181,8 +71,8 @@
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/contact.html" />
         <option value="$PROJECT_DIR$/www/checklist.html" />
-        <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
       </list>
     </option>
   </component>
@@ -370,12 +260,12 @@
       <workItem from="1506890170208" duration="32000" />
       <workItem from="1506892865834" duration="2000" />
       <workItem from="1507135132671" duration="237000" />
-      <workItem from="1507140021565" duration="6584000" />
+      <workItem from="1507140021565" duration="7051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45920000" />
+    <option name="totallyTimeSpent" value="46387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="742" extended-state="6" />
@@ -815,10 +705,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        <state relative-caret-position="465">
+          <caret line="48" column="37" lean-forward="false" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
           <folding>
-            <element signature="e#2534#2806#0" expanded="false" />
+            <element signature="e#2510#2782#0" expanded="false" />
           </folding>
         </state>
       </provider>

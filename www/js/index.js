@@ -36,7 +36,6 @@ var app = {
         app.setupPush();
     },
     setupPush: function() {
-        alert('PushNotification: 1');
         var push = PushNotification.init({
             "android": {
                 "senderID": "375914529258",
@@ -46,15 +45,14 @@ var app = {
             "ios": {
                 "sound": true,
                 "vibration": true,
-                "badge": true
+                "badge": true,
+                "topics": ["all-ios"]
             },
             "windows": {}
         });
 
-        alert('PushNotification: 2');
-
         push.on('registration', function(data) {
-            alert('Registration Event: ' + data.registrationId);
+            //console.log('Registration Event: ' + data.registrationId);
 
             var oldRegId = localStorage.getItem('registrationId');
             if (oldRegId !== data.registrationId) {
@@ -65,7 +63,7 @@ var app = {
         });
 
         push.on('error', function(e) {
-            alert("Push Error : " + e.message);
+            console.log("Push Error : " + e.message);
         });
 
         push.on('notification', function(data) {
