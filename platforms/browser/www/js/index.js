@@ -43,10 +43,11 @@ var app = {
             },
             "browser": {},
             "ios": {
+                "senderID": "375914529258",
+                "topics": ["all-ios"],
                 "sound": true,
                 "vibration": true,
-                "badge": true,
-                "topics": ["all-ios"]
+                "badge": true
             },
             "windows": {}
         });
