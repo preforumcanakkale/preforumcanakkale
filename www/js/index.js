@@ -49,13 +49,13 @@ var app = {
             "windows": {}
         });
 
-        var topic = "allandroid";
+        var topic = "all-android";
 
         push.subscribe(topic, function () {
-            console.log('Subscribe Success: ' + topic);
+            alert('Subscribe Success: ' + topic);
         }, function (e) {
-            console.log('Subscribe Error:');
-            console.log(e);
+            alert('Subscribe Error:');
+            alert(e);
         });
 
         push.on('registration', function(data) {

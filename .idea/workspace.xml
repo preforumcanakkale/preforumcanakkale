@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dafa7f0-f9a8-4978-acdf-76c33917bb2d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/js/index.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/index.js" afterPath="$PROJECT_DIR$/www/js/index.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,30 +20,10 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+            <state relative-caret-position="285">
+              <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
               <folding>
-                <element signature="e#2675#2947#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="push.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/phonegap-plugin-push/www/push.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1443">
-              <caret line="304" column="23" lean-forward="false" selection-start-line="304" selection-start-column="16" selection-end-line="304" selection-end-column="23" />
-              <folding>
-                <element signature="e#1727#2815#0" expanded="false" />
-                <element signature="e#3320#4233#0" expanded="false" />
-                <element signature="e#4587#5150#0" expanded="false" />
-                <element signature="e#5512#6076#0" expanded="false" />
-                <element signature="e#6262#6928#0" expanded="false" />
-                <element signature="e#7101#7719#0" expanded="false" />
-                <element signature="e#7854#8560#0" expanded="false" />
-                <element signature="e#8909#9064#0" expanded="false" />
-                <element signature="e#10596#11309#0" expanded="false" />
+                <element signature="e#2658#2930#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -279,12 +257,12 @@
       <workItem from="1506890170208" duration="32000" />
       <workItem from="1506892865834" duration="2000" />
       <workItem from="1507135132671" duration="237000" />
-      <workItem from="1507140021565" duration="4012000" />
+      <workItem from="1507140021565" duration="4572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43348000" />
+    <option name="totallyTimeSpent" value="43908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="742" extended-state="6" />
@@ -697,8 +675,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/phonegap-plugin-push/www/push.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1443">
-          <caret line="304" column="23" lean-forward="false" selection-start-line="304" selection-start-column="16" selection-end-line="304" selection-end-column="23" />
+        <state relative-caret-position="228">
+          <caret line="134" column="21" lean-forward="true" selection-start-line="134" selection-start-column="21" selection-end-line="134" selection-end-column="21" />
           <folding>
             <element signature="e#1727#2815#0" expanded="false" />
             <element signature="e#3320#4233#0" expanded="false" />
@@ -715,10 +693,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        <state relative-caret-position="285">
+          <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
           <folding>
-            <element signature="e#2675#2947#0" expanded="false" />
+            <element signature="e#2658#2930#0" expanded="false" />
           </folding>
         </state>
       </provider>
