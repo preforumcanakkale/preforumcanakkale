@@ -488,3 +488,28 @@ myApp.onPageInit('checklist', function (page) {
     }
 
 })
+
+myApp.onPageInit('notifications', function (page) {
+    var notifications = JSON.parse(localStorage.getItem("notifications"));
+
+    if($.trim(notifications) == ''){
+        notifications = [];
+    }
+
+    var content = '';
+    notifications.forEach(function(r, index){
+        content += '<h5 style="padding-bottom: 0px;" >'+ r.title +'</h5>';
+        content += '' +
+            '<div class="form_row">'+
+                '<label class="label-checkbox item-content">'+
+                    '<div class="item-inner">'+
+                        '<div class="item-title">'+ r.message +'</div>'+
+                    '</div>'+
+                '</label>'+
+            '</div>';
+        content += '<hr style="border-color: #f9f9f9" />';
+    });
+
+    $('#notification-container').html(content);
+
+})

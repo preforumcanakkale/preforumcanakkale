@@ -76,6 +76,17 @@ var app = {
                 'Ok'                  // buttonName
             );
             */
+
+            var notifications = JSON.parse(localStorage.getItem("notifications"));
+
+            if($.trim(notifications) == ''){
+                notifications = [];
+            }
+
+            Array.prototype.push.apply(notifications, [{title: data.title, message: data.message}]);
+
+            localStorage.setItem("notifications", JSON.stringify(notifications));
+
             myApp.addNotification({
                 title: data.title,
                 subtitle: '',
