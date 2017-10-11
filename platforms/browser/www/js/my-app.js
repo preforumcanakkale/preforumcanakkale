@@ -443,16 +443,16 @@ myApp.onPageInit('checklist', function (page) {
         }
     ];
 
-    genders.forEach(function(g){
+    genders.forEach(function(g, gindex){
         var content = '';
 
-        g.lists.forEach(function(r){
+        g.lists.forEach(function(r, rindex){
             content += '<h3>'+ r.label +'</h3>';
             r.values.forEach(function(v, index){
                 content += '' +
                     '<div class="form_row">'+
                     '<label class="label-checkbox item-content">'+
-                        '<input type="checkbox" name="male[]" value="'+ index +'" >'+
+                        '<input type="checkbox" data-id="item-'+ gindex +'-'+ rindex +'-'+ index +'" >'+
                         '<div class="item-media">'+
                             '<i class="icon icon-form-checkbox"></i>'+
                         '</div>'+
@@ -467,5 +467,24 @@ myApp.onPageInit('checklist', function (page) {
 
         $(g.id).html(content);
     });
+
+    function setupBox(box) {
+        var storageId = box.getAttribute("data-id");
+        var oldVal    = localStorage.getItem(storageId);
+        box.checked = oldVal === "true" ? true : false;
+
+        box.addEventListener("change", function() {
+            localStorage.setItem(storageId, this.checked);
+        });
+    }
+
+    var boxes = document.querySelectorAll("input[type='checkbox']");
+
+    for (var i = 0; i < boxes.length; i++) {
+        var box = boxes[i];
+        if (box.hasAttribute("data-id")) {
+            setupBox(box);
+        }
+    }
 
 })
