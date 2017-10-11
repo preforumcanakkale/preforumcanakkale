@@ -497,6 +497,9 @@ myApp.onPageInit('notifications', function (page) {
     }
 
     var content = '';
+
+    notifications.reverse();
+
     notifications.forEach(function(r, index){
         content += '<h5 style="padding-bottom: 0px;" >'+ r.title +'</h5>';
         content += '' +
@@ -509,6 +512,16 @@ myApp.onPageInit('notifications', function (page) {
             '</div>';
         content += '<hr style="border-color: #f9f9f9" />';
     });
+
+    if(content == ''){
+        content = '<div class="form_row">'+
+                    '<label class="label-checkbox item-content">'+
+                        '<div class="item-inner">'+
+                            '<div class="item-title">Bildiriminiz bulunmamaktadır.</div>'+
+                        '</div>'+
+                    '</label>'+
+                '</div>';
+    }
 
     $('#notification-container').html(content);
 
